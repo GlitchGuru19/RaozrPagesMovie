@@ -283,3 +283,4 @@ D:\Everything C#\C # Projects\RaozrPagesMovie\bin\Debug\net8.0\runtimes\win\lib\
 D:\Everything C#\C # Projects\RaozrPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\Everything C#\C # Projects\RaozrPagesMovie\obj\Debug\net8.0\RaozrPagesMovie.csproj.AssemblyReference.cache
 D:\Everything C#\C # Projects\RaozrPagesMovie\obj\Debug\net8.0\RaozrPag.9232A8FD.Up2Date
+D:\Everything C#\C # Projects\RaozrPagesMovie\obj\Debug\net8.0\RaozrPagesMovie.sourcelink.json

@@ -1,4 +1,4 @@
-@page
+@page "{searchString?}"
 @model RaozrPagesMovie.Pages.Movies.IndexModel
 
 @{
@@ -11,6 +11,12 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+<form>
+    <p>
+        <label>Title: <input type="text" asp-for="SearchString" /></label>
+        <input type="submit" value="Filter" />
+    </p>
+</form>
 <table class="table">
     <thead>
         <tr>
